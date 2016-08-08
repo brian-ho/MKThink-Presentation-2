@@ -1,4 +1,5 @@
-#Visualization and the VR Web
+#Visualization
+#and the VR Web
 
 brian ho&ensp;//&ensp;vr research part one&ensp;//&ensp;summer fellowship 2016
 
@@ -24,7 +25,7 @@ Note: This is the first part, second on Thursday. Want to review the technology,
 Developed in 2002 by UI designer [John Underkoffler](http://www.fastcodesign.com/3046205/7-questions-for-the-guy-who-designed-minority-reports-futuristic-uis) for the film. He's now CEO of [Obolong](http://www.oblong.com), which today sells a similar system as an actual product!
 
 
-###The VR and the web, today
+###VR and the internet, today
 ![bad interface](images/samsung_browser.png)
 
 Clearly, there's still a long way to go. If you're curious, there's a good [FastCo.Design article](http://www.fastcodesign.com/3058591/why-a-virtual-reality-web-may-never-happen) on the subject of the VR web.
@@ -36,7 +37,7 @@ Clearly, there's still a long way to go. If you're curious, there's a good [Fast
 Amazing work by the pioneering [IrisVR](https://www.irisvr.com) team. [Flux.io](https://labs.flux.io/flux-vr/) and [Thornton Tomasetti's CORE studio](http://core.thorntontomasetti.com/vrx/) are making similar efforts.
 
 
-###3D and data visualization, today
+###VR/3D and data visualization, today
 ![ocr graphic](images/ocr_example.jpg)
 
 One of the better examples yet, by the incredible [Office for Creative Research](http://ocr.nyc). Is it better, however, than just laying it out in 2D?
@@ -82,11 +83,13 @@ Available now or out soon, for about $2000-$3000. Yikes.
 
 ###HTML/CSS/JS
 <div class="flex-container">
+    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><span class="fragment"></span></div>
     <div class="flex-item" style="-webkit-flex: 3; flex: 3;"><span class="fragment">![HTML](images/html.png)<br>**HTML**</span></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;"><h1 class="fragment">+</h1></div>
     <div class="flex-item" style="-webkit-flex: 3; flex: 3;"><span class="fragment">![CSS](images/css.png)<br>**CSS**</span></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;"><h1 class="fragment">+</h1></div>
     <div class="flex-item" style="-webkit-flex: 3; flex: 3;"><span class="fragment">![JS](images/js.png)<br>**JS**</span></div>
+    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><span class="fragment"></span></div>
 </div>
 <br>
 The backbone of the web.
@@ -109,6 +112,11 @@ A great way to bind data to anything in a web page's DOM.
 ```
 
 VR made really, really [easy](https://aframe.io).
+
+
+###Hello, world.
+<iframe width="1280" height="720" src="https://brian-ho.github.io/" frameborder="0" allowfullscreen></iframe>
+
 
 
 ##Progress so far
