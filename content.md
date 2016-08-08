@@ -1,6 +1,6 @@
-#Design and Visualization for the Virtual Reality Web
+#Visualization and the VR Web
 
-brian ho&ensp;//&ensp;vr research part one&ensp;//&ensp;mk think summer fellowship 2016
+brian ho&ensp;//&ensp;vr research part one&ensp;//&ensp;summer fellowship 2016
 
 2016.08.08
 Note: This is the first part, second on Thursday. Want to review the technology, basic principles and WIP. Higher-level discussion on Thursday. Build on last Thursday round table on MKT+RH1, help provide insight into process of creating an online data platform.
@@ -58,7 +58,7 @@ One of the better examples yet, by the incredible [Office for Creative Research]
     <div class="flex-item" style="-webkit-flex: 2; flex: 1;"><h1>+</h1></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![A-Frame](images/a-frame.png) **A-Frame**</div>
     <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><h1>+</h1></div>
-    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![Cardboard](images/cardboard.png) **Google Cardboard**</div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![Cardboard](images/cardboard.png) **Cardboard**</div>
 </div>
 <br><br>
 Benjamin Bratton's [recent book](https://mitpress.mit.edu/books/stack) takes the concept to the next level.
@@ -108,7 +108,7 @@ A great way to bind data to anything in a web page's DOM.
 </body>
 ```
 
-VR made really, really easy.
+VR made really, really [easy](https://aframe.io).
 
 
 ##Progress so far
