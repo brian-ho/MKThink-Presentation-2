@@ -12,7 +12,8 @@ Note: This is the first part, second on Thursday. Want to review the technology,
 
 ###Advantages, in theory
 - **Speed:** runs without a separate application or procedure
-- **Portability:** is as accessible as anything else on the Internet
+- **Portability:** can be emailed, shared and navigated to by URL
+- **Accessibility** cheap and easy to use
 - **Depth:** conveys more information than conventional 2D interfaces
 - **Familiarity:** relies on intuitive gestures and behaviors
 
@@ -46,45 +47,63 @@ One of the better examples yet, by the incredible [Office for Creative Research]
 
 
 ###Stack what now?
-<br>
 <div class="flex-container">
-    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![plus2](images/html.png) **HTMK**</div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![HTML](images/html.png) **HTML**</div>
     <div class="flex-item" style="-webkit-flex: 1; flex: 1;"> **+** </div>
-    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![plus](images/css.png) **CSS**</div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![CSS](images/css.png) **CSS**</div>
     <div class="flex-item" style="-webkit-flex: 1; flex: 1;"> + </div>
-    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![plus2](images/js.png) **JS**</div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![JS](images/js.png) **JS**</div>
     <div class="flex-item" style="-webkit-flex: 1; flex: 1;"> + </div>
-    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![plus](images/d3.png) **D3.js**</div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![D3.js](images/d3.png) **D3.js**</div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 1;"> **+** </div>
-    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![plus2](images/a-frame.png) **A-Frame**</div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![A-Frame](images/a-frame.png) **A-Frame**</div>
     <div class="flex-item" style="-webkit-flex: 1; flex: 1;"> + </div>
-    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![plus2](images/cardboard.png) **Google Cardboard**</div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![Cardboard](images/cardboard.png) **Google Cardboard**</div>
 </div>
 <br><br>
 Benjamin Bratton's [recent book](https://mitpress.mit.edu/books/stack) takes the concept to the next level.
 
 
 ###Google Cardboard
+![in use](images/cardboard2.jpg)
+
+$10 gets you a ticket to the frontiers of the VR web.
 
 
 ###Alternative VR hardware
+<div class="flex-container">
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![Rift](images/oculus_rift.jpg) **Oculus Rift**</div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![Vive](images/htc_vive.png) **HTC Vive** </div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![Hololens](images/hololens.jpg) **Hololens**</div>
+</div>
+
+Available now or out soon, for about $2000-$3000. Yikes.
 
 
 ###HTML/CSS/JS
-
+The backbone of the web.
 
 ###D3.js
+<iframe style="background: #FFFFFF;" width="1280" height="720" src="https://brian-ho.github.io/MKThink-strategy-tool/" frameborder="0" allowfullscreen></iframe>
+
+A great way to bind data to anything in a web page's DOM.
 
 
 ###A-Frame
 
 
 
-##Initial studies
+##Progress so far
 
 
+###Anything you can D3, you can 3D it! _Almost_.
+<iframe style="background: #FFFFFF;" width="1280" height="720" src="https://bl.ocks.org/mbostock/raw/3808234/" frameborder="0" allowfullscreen></iframe>
 
-###What's next
+[Original](https://bl.ocks.org/mbostock/3808234) by Mike Bostock, creator of D3.js. Proof of concept in 3D completed [here](https://brian-ho.github.io/vr-04/).
+
+###Wait, what about the VR?
+
+Take a look at [bit.ly/bho_vr_test](https://brian-ho.github.io/vr-06/).
 
 
 
