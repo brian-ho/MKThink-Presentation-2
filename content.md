@@ -21,7 +21,7 @@ Note: This is the first part, second on Thursday. Want to review the technology,
 
 
 ###It is _a_ future for visualization
-<iframe src="https://player.vimeo.com/video/49216050?title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe data-src="https://player.vimeo.com/video/49216050?title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Developed in 2002 by UI designer [John Underkoffler](http://www.fastcodesign.com/3046205/7-questions-for-the-guy-who-designed-minority-reports-futuristic-uis) for the film. He's now CEO of [Obolong](http://www.oblong.com), which today sells a similar system as an actual product!
 
@@ -33,7 +33,7 @@ Clearly, there's still a long way to go. If you're curious, there's a good [Fast
 
 
 ###VR and architecture, today
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/7Fzxu3hkuXo" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" data-src="https://www.youtube.com/embed/7Fzxu3hkuXo" frameborder="0" allowfullscreen></iframe>
 
 Amazing work by the pioneering [IrisVR](https://www.irisvr.com) team. [Flux.io](https://labs.flux.io/flux-vr/) and [Thornton Tomasetti's CORE studio](http://core.thorntontomasetti.com/vrx/) are making similar efforts.
 
@@ -97,7 +97,7 @@ The backbone of the web.
 
 
 ###D3.js
-<iframe style="background: #FFFFFF;" width="1280" height="720" src="https://brian-ho.github.io/MKThink-strategy-tool/" frameborder="0" allowfullscreen></iframe>
+<iframe style="background: #FFFFFF;" width="1280" height="720" data-src="https://brian-ho.github.io/MKThink-strategy-tool/" frameborder="0" allowfullscreen></iframe>
 
 A great way to bind data to anything in a web page's DOM.
 
@@ -116,7 +116,7 @@ VR made really, really [easy](https://aframe.io).
 
 
 ###Hello, world.
-<iframe width="1280" height="720" src="https://brian-ho.github.io/" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" data-src="https://brian-ho.github.io/" frameborder="0" allowfullscreen></iframe>
 
 That easy!
 
@@ -126,13 +126,13 @@ That easy!
 
 
 ###Anything you can D3...
-<iframe style="background: #FFFFFF;" width="1280" height="720" src="https://bl.ocks.org/mbostock/raw/3808234/" frameborder="0" allowfullscreen></iframe>
+<iframe style="background: #FFFFFF;" width="1280" height="720" data-src="https://bl.ocks.org/mbostock/raw/3808234/" frameborder="0" allowfullscreen></iframe>
 
 [Original](https://brian-ho.github.io/vr-07) by Mike Bostock, creator of D3.js.
 
 
 ###...I can 3D it! Almost
-<iframe width="1280" height="720" src="https://brian-ho.github.io/vr-04" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" data-src="https://brian-ho.github.io/vr-04" frameborder="0" allowfullscreen></iframe>
 
  Proof of concept completed in 3D  [here](https://brian-ho.github.io/vr-04/)!
 
