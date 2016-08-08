@@ -84,13 +84,13 @@ Available now or out soon, for about $2000-$3000. Yikes.
 
 ###HTML/CSS/JS
 <div class="flex-container">
-    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><span class="fragment"></span></div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;"><span class="fragment"></span></div>
     <div class="flex-item" style="-webkit-flex: 3; flex: 3;"><span class="fragment">![HTML](images/html.png)<br>**HTML**</span></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;"><h1 class="fragment">+</h1></div>
     <div class="flex-item" style="-webkit-flex: 3; flex: 3;"><span class="fragment">![CSS](images/css.png)<br>**CSS**</span></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;"><h1 class="fragment">+</h1></div>
     <div class="flex-item" style="-webkit-flex: 3; flex: 3;"><span class="fragment">![JS](images/js.png)<br>**JS**</span></div>
-    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><span class="fragment"></span></div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;"><span class="fragment"></span></div>
 </div>
 <br>
 The backbone of the web.
