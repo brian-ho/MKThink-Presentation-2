@@ -4,7 +4,7 @@
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
 
-@import url(https://fonts.googleapis.com/css?family=Abel|Space+Mono:400,400i,700,700i|Work+Sans:100,200,300,400,500,600,700,800,900);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i|Space+Mono:400,400i,700,700i|Work+Sans:100,200,300,400,500,600,700,800,900);
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -13,8 +13,8 @@ body {
   background-color: #111; }
 
 .reveal {
-  font-family: "Abel", sans-serif;
-  font-size: 24px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 21px;
   font-weight: 300;
   /*letter-spacing: -0.01em;*/
   color: #eee; }
@@ -29,6 +29,20 @@ body {
   line-height: 1.2;
   font-weight: inherit; }
 
+  .flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.flex-item {
+    /*width: 300px;
+    height: 600px;*/
+    margin: auto;
+}
 /*********************************************
  * HEADERS
  *********************************************/
