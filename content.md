@@ -1,4 +1,4 @@
-#Visualizing the Built Environment on the Virtual Reality Web
+#The Built Environment + the Virtual Reality Web
 
 brian ho&ensp;//&ensp;vr research part one&ensp;//&ensp;mk think summer fellowship 2016
 
