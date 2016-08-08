@@ -15,7 +15,7 @@ Note: This is the first part, second on Thursday. Want to review the technology,
 ###Advantages, in theory
 - **Speed:** runs without a separate application or procedure
 - **Portability:** can be emailed, shared and navigated to by URL
-- **Accessibility** cheap and easy to use
+- **Accessibility:** cheap and easy to use
 - **Depth:** conveys more information than conventional 2D interfaces
 - **Familiarity:** relies on intuitive gestures and behaviors
 
@@ -126,7 +126,7 @@ That easy!
 
 
 ###Anything you can D3...
-<iframe style="background: #FFFFFF;" width="1280" height="720" data-src="https://bl.ocks.org/mbostock/raw/3808234/" frameborder="0" allowfullscreen></iframe>
+<iframe style="background: #FFFFFF;" width="1280" height="720" data-src="https://brian-ho.github.io/vr-07" frameborder="0" allowfullscreen></iframe>
 
 [Original](https://brian-ho.github.io/vr-07) by Mike Bostock, creator of D3.js.
 
