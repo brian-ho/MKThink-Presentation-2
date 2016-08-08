@@ -45,7 +45,7 @@ One of the better examples yet, by the incredible [Office for Creative Research]
 
 
 
-###Prototyping the stack
+##Prototyping the stack
 
 
 ###Stack what now?
