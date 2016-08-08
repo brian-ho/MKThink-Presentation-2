@@ -7,38 +7,51 @@ Note: This is the first part, second on Thursday. Want to review the technology,
 
 
 
-###Why VR?
+##Why VR?
 
 
-##The VR Web
-[FastCo.Design article](http://www.fastcodesign.com/3058591/why-a-virtual-reality-web-may-never-happen) on the subject.
+###It is _a_ future for visualization
+<iframe src="https://player.vimeo.com/video/49216050" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Developed in 2002 by UI designer [John Underkoffler](http://www.fastcodesign.com/3046205/7-questions-for-the-guy-who-designed-minority-reports-futuristic-uis) for the film. He's now CEO of [Obolong](http://www.oblong.com), which today sells a similar system as an actual product!
 
 
-###Prototyping the Stack
+<h6>public</h6>
+###The VR web
+![bad interface](images/samsung_browser.png)
 
-
-
-##Google Cardboard
-
-
-##Alternative VR Hardware
-
-
-##HTML/CSS/JS
-
-
-##D3.js
-
-
-##A-Frame
+Clearly, there's a lot to be resolved. If you're curious, there's a good [FastCo.Design article](http://www.fastcodesign.com/3058591/why-a-virtual-reality-web-may-never-happen) on the subject.
 
 
 
-###Initial Studies
+###Prototyping the stack
+
+
+###Stack what now?
+Although Benjamin Bratton's [recent book](https://mitpress.mit.edu/books/stack) takes the concept to the next level.
+
+
+###Google Cardboard
+
+
+###Alternative VR hardware
+
+
+###HTML/CSS/JS
+
+
+###D3.js
+
+
+###A-Frame
 
 
 
-###What's Next
+##Initial studies
+
+
+
+###What's next
 
 <h6>storage</h6>
 ###How can data make change?
