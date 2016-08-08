@@ -150,5 +150,8 @@ Take a look at [bit.ly/bho_vr_test](https://brian-ho.github.io/vr-06/).
 - **Data:** what to visualize?
 
 
-##Stay tuned for more! Bring your Cardboard!
+##Stay tuned for more!
+
+##Bring your Cardboard!
+
 Thanks for listening! Slides online at [bit.ly/bho_vr_1](http://bit.ly/bho_vr_1).
