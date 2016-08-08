@@ -143,5 +143,12 @@ Take a look at [bit.ly/bho_vr_test](https://brian-ho.github.io/vr-06/).
 
 
 
-##Stay tuned for more!
+##Later this week:
+- **Interface:** what should this look like?
+- **Cognitive dimensions:** more interesting than they sound!
+- **Architecture and the built environment:** how can we make this real?
+- **Data:** what to visualize?
+
+
+##Stay tuned for more! Bring your Cardboard!
 Thanks for listening! Slides online at [bit.ly/bho_vr_1](http://bit.ly/bho_vr_1).
