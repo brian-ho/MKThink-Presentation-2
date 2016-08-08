@@ -124,10 +124,14 @@ That easy.
 ##Progress so far
 
 
-###Anything you can D3, I can 3D it! Almost.
+###Anything you can D3 ...
 <iframe style="background: #FFFFFF;" width="1280" height="720" src="https://bl.ocks.org/mbostock/raw/3808234/" frameborder="0" allowfullscreen></iframe>
 
 [Original](https://bl.ocks.org/mbostock/3808234) by Mike Bostock, creator of D3.js. Proof of concept completed in 3D  [here](https://brian-ho.github.io/vr-04/).
+
+
+###... I can 3D it! Almost
+<iframe width="1280" height="720" src="https://brian-ho.github.io/vr-04" frameborder="0" allowfullscreen></iframe>
 
 
 ###Wait, what about the VR?
