@@ -16,7 +16,6 @@ Note: This is the first part, second on Thursday. Want to review the technology,
 Developed in 2002 by UI designer [John Underkoffler](http://www.fastcodesign.com/3046205/7-questions-for-the-guy-who-designed-minority-reports-futuristic-uis) for the film. He's now CEO of [Obolong](http://www.oblong.com), which today sells a similar system as an actual product!
 
 
-<h6>public</h6>
 ###The VR web
 ![bad interface](images/samsung_browser.png)
 

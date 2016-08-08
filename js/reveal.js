@@ -141,10 +141,10 @@
 			transitionSpeed: 'default', // default/fast/slow
 
 			// Transition style for full page slide backgrounds
-			backgroundTransition: 'concaves', // none/fade/slide/convex/concave/zoom
+			backgroundTransition: 'slide', // none/fade/slide/convex/concave/zoom
 
 			// Parallax background image
-			parallaxBackgroundImage: 'images/background3.tif', // CSS syntax, e.g. "a.jpg"
+			parallaxBackgroundImage: '', // CSS syntax, e.g. "a.jpg"
 
 			// Parallax background size
 			parallaxBackgroundSize: '3000px 1200px', // CSS syntax, e.g. "3000px 2000px"
