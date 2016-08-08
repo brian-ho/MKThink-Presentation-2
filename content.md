@@ -118,7 +118,8 @@ VR made really, really [easy](https://aframe.io).
 ###Hello, world.
 <iframe width="1280" height="720" src="https://brian-ho.github.io/" frameborder="0" allowfullscreen></iframe>
 
-That easy.
+That easy!
+
 
 
 ##Progress so far
