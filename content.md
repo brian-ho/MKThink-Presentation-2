@@ -33,7 +33,7 @@ Clearly, there's still a long way to go. If you're curious, there's a good [Fast
 ###VR and architecture, today
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/7Fzxu3hkuXo" frameborder="0" allowfullscreen></iframe>
 
-Amazing work by the pioneering [IrisVR](https://www.irisvr.com) team. Although [Flux.io](https://labs.flux.io/flux-vr/) and [Thornton Tomasetti's CORE studio](http://core.thorntontomasetti.com/vrx/) are making similar efforts.
+Amazing work by the pioneering [IrisVR](https://www.irisvr.com) team. [Flux.io](https://labs.flux.io/flux-vr/) and [Thornton Tomasetti's CORE studio](http://core.thorntontomasetti.com/vrx/) are making similar efforts.
 
 
 ###3D and data visualization, today
@@ -49,15 +49,15 @@ One of the better examples yet, by the incredible [Office for Creative Research]
 ###Stack what now?
 <div class="flex-container">
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![HTML](images/html.png) **HTML**</div>
-    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"> **+** </div>
+    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><h1>+</h1></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![CSS](images/css.png) **CSS**</div>
-    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"> + </div>
+    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><h1>+</h1></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![JS](images/js.png) **JS**</div>
-    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"> + </div>
+    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><h1>+</h1></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![D3.js](images/d3.png) **D3.js**</div>
-    <div class="flex-item" style="-webkit-flex: 2; flex: 1;"> **+** </div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 1;"><h1>+</h1></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![A-Frame](images/a-frame.png) **A-Frame**</div>
-    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"> + </div>
+    <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><h1>+</h1></div>
     <div class="flex-item" style="-webkit-flex: 2; flex: 2;">![Cardboard](images/cardboard.png) **Google Cardboard**</div>
 </div>
 <br><br>
@@ -81,7 +81,16 @@ Available now or out soon, for about $2000-$3000. Yikes.
 
 
 ###HTML/CSS/JS
+<div class="flex-container">
+    <div class="flex-item" style="-webkit-flex: 3; flex: 3;"><span class="fragment">![HTML](images/html.png)<br>**HTML**</span></div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;"><h1 class="fragment">+</h1></div>
+    <div class="flex-item" style="-webkit-flex: 3; flex: 3;"><span class="fragment">![CSS](images/css.png)<br>**CSS**</span></div>
+    <div class="flex-item" style="-webkit-flex: 2; flex: 2;"><h1 class="fragment">+</h1></div>
+    <div class="flex-item" style="-webkit-flex: 3; flex: 3;"><span class="fragment">![JS](images/js.png)<br>**JS**</span></div>
+</div>
+<br>
 The backbone of the web.
+
 
 ###D3.js
 <iframe style="background: #FFFFFF;" width="1280" height="720" src="https://brian-ho.github.io/MKThink-strategy-tool/" frameborder="0" allowfullscreen></iframe>
@@ -90,16 +99,26 @@ A great way to bind data to anything in a web page's DOM.
 
 
 ###A-Frame
+```html
+<body>
+  <a-scene>
+      <a-box color="red" width="1" height="1" depth="1"></a-box>
+      <a-sky color="#ECECEC"></a-sky>
+  </a-scene
+</body>
+```
 
+VR made really, really easy.
 
 
 ##Progress so far
 
 
-###Anything you can D3, you can 3D it! _Almost_.
+###Anything you can D3, I can 3D it! Almost.
 <iframe style="background: #FFFFFF;" width="1280" height="720" src="https://bl.ocks.org/mbostock/raw/3808234/" frameborder="0" allowfullscreen></iframe>
 
-[Original](https://bl.ocks.org/mbostock/3808234) by Mike Bostock, creator of D3.js. Proof of concept in 3D completed [here](https://brian-ho.github.io/vr-04/).
+[Original](https://bl.ocks.org/mbostock/3808234) by Mike Bostock, creator of D3.js. Proof of concept completed in 3D  [here](https://brian-ho.github.io/vr-04/).
+
 
 ###Wait, what about the VR?
 
