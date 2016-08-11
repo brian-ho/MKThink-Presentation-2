@@ -166,7 +166,7 @@ Very quantitative, not immediately spatial.
 ##How about interfaces?
 ![4D](images/4d ui.gif)
 
-Exploratory — but never as intuitive as you might want.
+Exploratory, but never as intuitive as you might want or hope.
 
 
 ###Prototype spatial data viewer
