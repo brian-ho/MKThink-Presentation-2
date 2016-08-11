@@ -2,14 +2,17 @@
 
 #and the VR Web
 
-brian ho&ensp;//&ensp;vr research part one&ensp;//&ensp;summer fellowship 2016
+brian ho&ensp;//&ensp;vr research part one and two&ensp;//&ensp;summer fellowship 2016
 
-2016.08.08
-Note: This is the first part, second on Thursday. Want to review the technology, basic principles and WIP. Higher-level discussion on Thursday. Build on last Thursday round table on MKT+RH1, help provide insight into process of creating an online data platform.
+2016.08.11
+Note: Technical difficulties.
+
+
+###Continuing where we left off ...
 
 
 
-##Why VR? Why the Web?
+##1. Why VR? Why the Web?
 
 
 ###Advantages, in theory
@@ -45,7 +48,7 @@ One of the better examples yet, by the incredible [Office for Creative Research]
 
 
 
-##Prototyping the stack
+##2. Prototyping the stack
 
 
 ###Stack what now?
@@ -122,7 +125,7 @@ That easy!
 
 
 
-##Progress so far
+##3. Progress so far
 
 
 ###Anything you can D3...
@@ -141,17 +144,46 @@ That easy!
 
 Take a look at [bit.ly/bho_vr_test](https://brian-ho.github.io/vr-06/).
 
+**Tip:** iPhone users, click add to home screen.
 
 
-##Later this week:
-- **Interface:** what should this look like?
-- **Cognitive dimensions:** more interesting than they sound!
-- **Architecture and the built environment:** how can we make this real?
-- **Data:** what to visualize?
+
+##4. Putting it all together (somewhat)
 
 
-##Stay tuned for more.
+###How can we better understand spatial data?
+![bldg gif](images/seq-01.gif)
 
-###Bring your Cardboard!
+Drawings are pretty qualitative, somewhat experiential, not so quantiative.
 
+
+##What about charts?
+![chart](images/horizon zoom.png)
+
+Very quantitative, not immediately spatial.
+
+
+##How about interfaces?
+![4D](images/4d ui.gif)
+
+Exploratory — but never as intuitive as you might want.
+
+
+###Prototype spatial data viewer
+
+Take a look at [bit.ly/bho_vr](https://brian-ho.github.io/vr-09/)
+
+
+
+##5. Next steps
+
+
+### Improvements
+- **Real data:** streamed from a server or database
+- **Interaction as interface:** enable greater exploration
+- **Scales of environment:** room, building and urban scale
+
+
+
+##Fin
 Thanks for listening! Slides online at [bit.ly/bho_vr_1](http://bit.ly/bho_vr_1).
