@@ -186,4 +186,4 @@ Take a look at [bit.ly/bho_vr](https://brian-ho.github.io/vr-09/)
 
 
 ##Fin
-Thanks for listening! Slides online at [bit.ly/bho_vr_1](http://bit.ly/bho_vr_1).
+Thanks for listening and a great summer! Slides online at [bit.ly/bho_vr_1](http://bit.ly/bho_vr_1).
