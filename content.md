@@ -144,7 +144,7 @@ That easy!
 
 Take a look at [bit.ly/bho_vr_test](https://brian-ho.github.io/vr-06/).
 
-**Tip:** iPhone users, click add to home screen.
+**Tip:** iPhone users, tap add to home screen to enable fullscreen.
 
 
 
