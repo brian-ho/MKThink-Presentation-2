@@ -135,7 +135,7 @@ That easy!
 
 
 ###...I can 3D it! Almost
-<iframe width="1280" height="720" data-src="https://brian-ho.github.io/travels/" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" data-src="https://brian-ho.github.io/vr-04/" frameborder="0" allowfullscreen></iframe>
 
  Proof of concept completed in 3D  [here](https://brian-ho.github.io/vr-04/)!
 
